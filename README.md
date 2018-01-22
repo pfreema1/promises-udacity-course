@@ -1,7 +1,6 @@
 # Udacity Course on Promises
 
 
-<h1>Notes</h1>
 <p> 
   "The Promise object is used for deferred and asynchronous computations." -MDN
 </p>
